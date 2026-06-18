@@ -79,7 +79,9 @@ Copy the environment template:
 ```powershell
 cp .env.example .env
 ```
-Fill in your credentials inside the generated `.env` file (e.g., [`NEWS_API_KEY`](https://newsapi.org/register) and [`GUARDIAN_API_KEY`](https://open-platform.theguardian.com/access/)).
+Fill in your credentials inside the generated `.env` file (e.g., `NEWS_API_KEY` and `GUARDIAN_API_KEY`). You can register for free API keys at the following links:
+*   **NewsAPI**: [Register here](https://newsapi.org/register)
+*   **Guardian API**: [Request access here](https://open-platform.theguardian.com/access/)
 
 ---
 
